@@ -24,7 +24,7 @@ This Wiki for the game Pokemon Cultivation developed by Grounded Man Studio and 
 
 Within this Wiki you will see "PokeCult" this is the short name that we use internally to refer to the game. PokeCult is a Pokemon Emerald based Adult Hentai Game.
 
-First let me point out that This wiki will contain no licenced content or images. Also you will not find any sexual Images or the like on this wiki.
+First let us inform you that this wiki will contain no licenced content, images or sexual content.
 
 [Desc of game follow soon]
 

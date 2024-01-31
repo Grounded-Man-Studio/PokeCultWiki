@@ -1,13 +1,24 @@
+[Sec Intro]:https://github.com/Grounded-Man-Studio/PokeCultWiki#welcome-to-pokecult
+[Sec WikiIntro]:https://github.com/Grounded-Man-Studio/PokeCultWiki#welcome-to-the-script-side-wiki
+
+[Page DocuHome]:link
+[Page TutorialHome]:link
+[Page GameGuide]:link
+
 # Pokemon Cultivation - Script Side Overhaul Wiki
 
 This Wiki for the game Pokemon Cultivation developed by Grounded Man Studio and aided by Ancient Majik Technologies LLC (AMT LLC) for the script side code.
 
 ## Page Contents
 	
-- [Game Introduction][]
-- []
+- [Game Introduction][Sec Intro]
+- [Wiki Introduction][Sec WikiIntro]
 
 ## Site Quick Navigation
+
+- [Game Walkthrough][Page GameGuide]
+- [Script Documentation][Page DocuHome]
+- [Modding Tutorials][Page TutorialHome]
 
 ## Welcome to PokeCult
 

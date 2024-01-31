@@ -1,9 +1,9 @@
 [Sec Intro]:https://github.com/Grounded-Man-Studio/PokeCultWiki#welcome-to-pokecult
 [Sec WikiIntro]:https://github.com/Grounded-Man-Studio/PokeCultWiki#welcome-to-the-script-side-wiki
 
-[Page DocuHome]:link
-[Page TutorialHome]:link
-[Page GameGuide]:link
+[Page DocuHome]:https://github.com/Grounded-Man-Studio/PokeCultWiki/blob/main/Docu/DocuHome.md
+[Page TutorialHome]:https://github.com/Grounded-Man-Studio/PokeCultWiki/blob/main/Tutorials/TutorialHome.md
+[Page GameGuide]:https://github.com/Grounded-Man-Studio/PokeCultWiki/blob/main/Walkthrough/Walkthrough.md
 
 # Pokemon Cultivation - Script Side Overhaul Wiki
 

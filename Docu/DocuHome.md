@@ -2,25 +2,25 @@
 [Page TutorialHome]:https://github.com/Grounded-Man-Studio/PokeCultWiki/blob/main/Tutorials/TutorialHome.md
 [Page GameGuide]:https://github.com/Grounded-Man-Studio/PokeCultWiki/blob/main/Walkthrough/Walkthrough.md
 
-[Tut Docu OOPStyle]:link
-[Tut Docu FullClasses]:link
-[Tut Docu FullMod]:link
-[Tut Docu SystemsBased]:link
-[Tut Docu UnifyCore]:link
+[Tut Docu OOPStyle]:https://github.com/Grounded-Man-Studio/PokeCultWiki/blob/main/Docu/DesignPrinciples/CSStyleOOP.md
+[Tut Docu FullClasses]:https://github.com/Grounded-Man-Studio/PokeCultWiki/blob/main/Docu/DesignPrinciples/FullClasses.md
+[Tut Docu FullMod]:https://github.com/Grounded-Man-Studio/PokeCultWiki/blob/main/Docu/DesignPrinciples/FullModding.md
+[Tut Docu SystemsBased]:https://github.com/Grounded-Man-Studio/PokeCultWiki/blob/main/Docu/DesignPrinciples/Systems%20Based%20Design.md
+[Tut Docu UnifyCore]:https://github.com/Grounded-Man-Studio/PokeCultWiki/blob/main/Docu/DesignPrinciples/UnifiedCoreCode.md
 
-[System OOP]:link
-[System Collect]:link
-[System SystemsCore]:link
-[System Debug]:link
-[System FilePaths]:link
-[System Data]:link
-[System Versions]:link
-[System Geometry]:link
-[System Graphics]:link
-[System Input]:link
-[System Saves]:link
-[System GameData]:link
-[System Tests]:link
+[System OOP]:https://github.com/Grounded-Man-Studio/PokeCultWiki/blob/main/Docu/Systems/OOP/OOPSys.md
+[System Collect]:https://github.com/Grounded-Man-Studio/PokeCultWiki/blob/main/Docu/Systems/Collect/CollectSys.md
+[System SystemsCore]:https://github.com/Grounded-Man-Studio/PokeCultWiki/blob/main/Docu/Systems/SystemsCore/SystemsCoreSys.md
+[System Debug]:https://github.com/Grounded-Man-Studio/PokeCultWiki/blob/main/Docu/Systems/Debug/DebugSys.md
+[System FilePaths]:https://github.com/Grounded-Man-Studio/PokeCultWiki/blob/main/Docu/Systems/FilePaths/FilePathsSys.md
+[System Data]:https://github.com/Grounded-Man-Studio/PokeCultWiki/blob/main/Docu/Systems/Data/DataSys.md
+[System Versions]:https://github.com/Grounded-Man-Studio/PokeCultWiki/blob/main/Docu/Systems/Versions/VersionsSys.md
+[System Geometry]:https://github.com/Grounded-Man-Studio/PokeCultWiki/blob/main/Docu/Systems/Geometry/GeometrySys.md
+[System Graphics]:https://github.com/Grounded-Man-Studio/PokeCultWiki/blob/main/Docu/Systems/Graphics/GraphicsSys.md
+[System Input]:https://github.com/Grounded-Man-Studio/PokeCultWiki/blob/main/Docu/Systems/Input/InputSys.md
+[System Saves]:https://github.com/Grounded-Man-Studio/PokeCultWiki/blob/main/Docu/Systems/Saves/SavesSys.md
+[System GameData]:https://github.com/Grounded-Man-Studio/PokeCultWiki/blob/main/Docu/Systems/GameData/GameDataSys.md
+[System Tests]:https://github.com/Grounded-Man-Studio/PokeCultWiki/blob/main/Docu/Systems/Tests/TestsSys.md
 
 # Script Side Documentation Home
 
@@ -50,7 +50,7 @@ Welcome to the documentation for the Code Side as provided by AMT LLC's FueledBy
 
 ## Site Quick Navigation
 
-- [Home][Page Wiki Home]
+- [Home][Page WikiHome]
 	- [Game Walkthrough][Page GameGuide]
 	- [Modding Tutorials][Page TutorialHome]
 

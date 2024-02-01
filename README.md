@@ -26,6 +26,8 @@ Within this Wiki you will see "PokeCult" this is the short name that we use inte
 
 First let us inform you that this wiki will contain no licenced content, images or sexual content.
 
+Finally all rights of Pokemon, Pokemon Essentials and all Plugins are thier original creators, and as such we do not claim to be the original creators of any of thier creations, we provide the game for free under fair use and do not expect money for the game. We do offer the ability to support us as developers and our skills in game development along with providing a friendly, smooth and stable experience when it comes to our ability to effectively design and maintain the game as we work towards a fan base as we work towards designing our own Original Intelectual Properties in the future. 
+
 [Desc of game follow soon]
 
 ## Welcome to the Script Side Wiki
